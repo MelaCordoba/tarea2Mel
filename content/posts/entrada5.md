@@ -5,3 +5,5 @@ draft: false
 ---
 # Detalle
 Un dia normal en la cuarentena
+<img src="https://user-images.githubusercontent.com/69097371/90111804-6316b500-dd0c-11ea-845e-e34709a686b0.png" width="100">
+<img src="https://user-images.githubusercontent.com/69097371/90111589-17640b80-dd0c-11ea-93fa-556e7fab9311.png" width="100">
